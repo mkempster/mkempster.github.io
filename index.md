@@ -1,7 +1,3 @@
----
-title: embedded page title
-layout: pages
----
 
 ## markdown Cheatsheet
 
